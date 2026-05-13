@@ -1,4 +1,4 @@
 def bad():
-  print("bad")
-  x=1
-  return x
+    print("bad")
+    x = 1
+    return x
