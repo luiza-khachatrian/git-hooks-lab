@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Главный модуль приложения - изменено в dev3
+Главный модуль приложения - merged
 """
 
 
@@ -13,6 +13,7 @@ def main():
     """Точка входа"""
     print(greet("World"))
     print("Version: dev3")
+    print("Author: person2")
 
 
 if __name__ == "__main__":
