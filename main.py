@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Главный модуль приложения
+Главный модуль приложения - изменено в dev
 """
+
 
 def greet(name: str) -> str:
     """Возвращает приветствие"""
-    return f"Hello, {name}!"
+    return f"Hello, {name}! Have a great day!"
 
 
 def main():
